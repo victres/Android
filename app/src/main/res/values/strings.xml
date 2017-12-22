@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="encabezado_MainActivity">Merry Christmas</string>
+    <string name="encabezado2_MainActivity">Android Developer</string>
+</resources>
